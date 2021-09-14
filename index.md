@@ -1,91 +1,235 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Denis Belotserkovets
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Full-stack JS Developer
 
+## Valor Software
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+----
 
-### Specialized in
+- Good attention to details and ability to work with customer’s requests;
+- Flexible to work with different technologies;
+- Interested in new web technologies and achieving new skills.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+----
 
+## Skills
 
-### Research interests
+**Platforms and Programming Languages:** JavaScript, HTML 5, CSS 3, TypeScript, NodeJs, Dart;
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Databases and Data Storages:** MongoDB, MySQL, Postgresql, RealmDB, SQLite;
 
+**CI/CD:** Travis CI, GitHub Actions, Azure Pipelines, Gitlab CI/CD;
+
+**Cloud Services:**  Amazon, GCP, Firebase, Heroku;
+
+**Issue Tracking Systems:** Jira, Trello, Notion, Github Issues;
+
+**Version Control Systems:** git;
+
+**Testing:** Jest, Enzyme;
+
+**OS:** MacOS, Linux, Windows 10;
+
+**Build Tools:**  Webpack;
+
+**Container Tools:** Docker;
+
+**Frameworks:** React, React Native, Flutter, NestJs, Angular2;
+
+**IDE:** VSCode, DataGrip, WebStorm, Xcode, Android Studio;
+
+**Spoken Languages:** English, Russian, Ukrainian.
+
+## Work Experience
+
+**Name of Company:** Valor Software
+
+**Dates of Employment:** March 2021—May 2021
+
+**Job Title:** Full-Stack JS Developer
+
+**Project:** House Inventory
+
+**Description:** App for house managment
+
+**Stack:** ReactJs, TypeScript, React-Native, NestJS, PostgreSQL, TypeORM, GCP, Google Maps API, GraphQl
+
+**Primary responsibilities:**
+
+* Development of the Mobile App
+* Development of architecture
+* Development of the Back-end
+* Code review
+
+**Name of Company:** Valor Software
+
+**Dates of Employment:** December 2021—Now
+
+**Job Title:** Front-End JS Developer
+
+**Project:** WFP Mobility Logbook
+
+**Description:** Micro Front-End service inside main WFP web app
+
+**Stack:** ReactJs, TypeScript, Azure, AWS, Google Maps API
+
+**Primary responsibilities:**
+
+* Development of the Front end 
+* Development of architecture
+* Support of the app
+
+**Name of Company:** Valor Software
+
+**Dates of Employment:** September 2020—January 2021
+
+**Job Title:** Full-Stack JS Developer
+
+**Project:** GetCoral
+
+**Description:** Service for sex-education, forum and chating
+
+**Stack:** ReactJs, TypeScript, React-Native, Graphql, NestJS, Redis, AWS
+
+**Primary responsibilities:**
+
+* Developing BFF (backend for frontend) API from existing old API
+* Migration old Cordova app to React Native.
+* Code review
+
+**Name of Company:** Valor Software
+
+**Dates of Employment:** October 2019—February 2020
+
+**Job Title:** Full-stack JS Developer
+
+**Project:** Eyadat clinic app
+
+**Description:** Service for booking clinic treatments in clinics
+
+**Stack:** React Native, NodeJs, NestJs, MySQL, GraphQL, Apollo Server/Client, ReactJs, TypeScript, Firebase
+
+**Primary responsibilities:**
+
+* Development of the back end 
+* Development of the mobile app
+* Code review
+* Development of architecture
+* Support of the app
+
+**Project:** Humanitarian Booking Hub
+
+**Dates of Employment:** October 2019—Now
+
+**Description:** Service for booking UN services in hard-to-reach places
+
+**Stack:** React Native, RealDB, TypeScript, Azure, Google Maps API, Firebase
+
+**Primary responsibilities:**
+
+* Development of the mobile app from scratch
+* Communication with customer
+* Development of architecture.
+
+----
+
+**Name of Company:** JSDaddy
+
+**Dates of Employment:** July 2017—October 2019
+
+**Job Title:** Full-stack JS Developer
+
+**Project:** IMA
+
+**Description:** Healthcare Appointment App for doctors to schedule
+treatments for patients. Supports digital signatures.
+
+**Stack:** Futter, SQLite, Firebase
+
+**Primary responsibilities:**
+
+* Development of mobile the app.
+
+**Project:** Accelify
+
+**Description:** Internal app for university teachers to track student’s
+progress.
+
+**Stack:** Futter, Firebase
+
+**Primary responsibilities:**
+
+* Development of mobile the app.
+
+**Project:** Woop
+
+**Description:** App for tracking training process
+
+**Stack:** React Native, NestJs, TypeScript, MySQL, Docker, Heroku, Node.js.
+
+**Primary responsibilities:**
+
+* Development of mobile apps. 
+* Develop architecture.
+
+**Project:** Ngx-mask
+
+**Description:** Open-source Angular 2+ package
+
+**Stack:** Angular, TypeScript, Jasmine, Mocha.
+
+**Primary responsibilities:**
+
+* Development of new features
+* Bug fixes
+* Code review
+
+**Project:** IAS
+
+**Description:** Informational analytic system
+
+**Stack:** React.js, Redux, Rxjs, Material UI, TypeScript, HTML, SCSS, Nest.js, Node.js MongoDB, Docker, FFmpeg, RabbitMQ, Jest/Enzyme, Nightwatch.js.
+
+**Primary responsibilities:**
+
+* Implementation of new features and design architecture of the frontend part.
+* Unit and E2E testing.
+* Development of new features of the backend part.
+
+**Project:** Crest Token
+
+**Description:** ICO
+
+**Stack:** Angular, TypeScript, HTML, CSS, NgRx, Docker, Node.js.
+
+**Primary responsibilities:**
+
+* Regular tasks and implementation of new features of the frontend part.
+
+**Project:** Tokenize
+
+**Description:** ICO and exchange platform
+
+**Stack:** Angular 2+, TypeScript, HTML, CSS, NgRx, Rxjs, Docker, Node.js, NestJS
+
+**Primary responsibilities:**
+
+* Regular tasks and implementation of new features of the frontend part.
+
+**Project:** Bezkompleksov
+
+**Description:** Dating website.
+
+**Stack:** React.js, Redux, HTML, CSS.
+
+**Primary responsibilities:**
+
+* Developing an admin dashboard.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+2016—2020
+:   **Bachelor, Computer Science**; V. N. Karazin Kharkiv National University
 
